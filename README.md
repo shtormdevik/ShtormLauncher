@@ -1,2 +1,16 @@
-# ShtormLauncher
-minecraftLauncher
+# 🚀 Shtorm Launcher Pro V3.0
+**Shtorm Launcher** — это легкий и быстрый лаунчер для Minecraft, написанный на Python. 
+
+### ✨ Особенности:
+* 🛠 **Fabric Support:** Автоматическая установка Fabric Loader.
+* 💾 **Auto-Save:** Твой ник и настройки ОЗУ сохраняются автоматически.
+* 🚀 **Optimization:** Поддержка выделения до 16 ГБ оперативной памяти.
+* 📦 **Portable:** Работает из одного .exe файла.
+
+### 🎮 Как запустить:
+1. Скачайте `lacnher.exe` из раздела **Releases**.
+2. Введите свой ник и выберите версию игры.
+3. Нажмите **В БОЙ!** и дождитесь загрузки.
+
+---
+*Разработано: [shtormdevik](https://github.com/shtormdevik)*
